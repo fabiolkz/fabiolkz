@@ -1,4 +1,4 @@
-# 😄 About Me:
+# About Me:
 🤓 I’m a Front End Developer<br>🔎 I'm looking for a oportunity <br>
 
 
